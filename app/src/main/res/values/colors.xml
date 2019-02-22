@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="toolbar_background">#EC0707</color>
+    <color name="header_text_color">#070707</color>
+    <color name="event_category_header_color">#161616</color>
+    <color name="fb_white">#fff</color>
+    <color name="appbar_bgcolor">#D51212</color>
+    <color name="default_ripple_color">#BBB8B8</color>
+    <color name="secondary_text_color">#525050</color>
+    <color name="separator_color">#666464</color>
+</resources>
